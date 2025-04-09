@@ -1,404 +1,404 @@
-TITLE
-"""A Walk In The Woods"" (January 11, 1983)"
-"""Mount Mckinley"" (January 11, 1983)"
-"""Ebony Sunset"" (January 18, 1983)"
-"""Winter Mist"" (January 25, 1983)"
-"""Quiet Stream"" (February 1, 1983)"
-"""Winter Moon"" (February 8, 1983)"
-"""Autumn Mountains"" (February 15, 1983)"
-"""Peaceful Valley"" (February 22, 1983)"
-"""Seascape"" (March 1, 1983)"
-"""Mountain Lake"" (March 8, 1983)"
-"""Winter Glow"" (March 15, 1983)"
-"""Snowfall"" (March 22, 1983)"
-"""Final Reflections"" (March 29, 1983)"
-"""Meadow Lake"" (August 31, 1983)"
-"""Winter Sun"" (September 7, 1983)"
-"""Ebony Sea"" (September 14, 1983)"
-"""Shades Of Gray"" (September 21, 1983)"
-"""Autumn Splendor"" (September 28, 1983)"
-"""Black River"" (October 5, 1983)"
-"""Brown Mountain"" (October 12, 1983)"
-"""Reflections"" (October 19, 1983)"
-"""Black & White Seascape"" (October 26, 1983)"
-"""Lazy River"" (November 2, 1983)"
-"""Black Waterfall"" (November 9, 1983)"
-"""Mountain Waterfall"" (November 16, 1983)"
-"""Final Grace"" (November 23, 1983)"
-"""Mountain Retreat"" (January 4, 1984)"
-"""Blue Moon"" (January 11, 1984)"
-"""Bubbling Stream"" (January 18, 1984)"
-"""Winter Night"" (January 25, 1984)"
-"""Distant Hills"" (February 1, 1984)"
-"""Covered Bridge"" (February 8, 1984)"
-"""Quiet Inlet"" (February 15, 1984)"
-"""Night Light"" (February 22, 1984)"
-"""The Old Mill"" (March 1, 1984)"
-"""Campfire"" (March 8, 1984)"
-"""Rustic Barn"" (March 15, 1984)"
-"""Hidden Lake"" (March 22, 1984)"
-"""Peaceful Waters"" (March 29, 1984)"
-"""Purple Splendor"" (September 5, 1984)"
-"""Tranquil Valley"" (September 12, 1984)"
-"""Majestic Mountains"" (September 19, 1984)"
-"""Winter Sawscape"" (September 26, 1984)"
-"""Evening Seascape"" (October 3, 1984)"
-"""Warm Summer Day"" (October 10, 1984)"
-"""Cabin In The Woods"" (October 17, 1984)"
-"""Wetlands"" (October 24, 1984)"
-"""Cool Waters"" (October 31, 1984)"
-"""Quiet Woods"" (November 7, 1984)"
-"""Northwest Majesty"" (November 14, 1984)"
-"""Autumn Days"" (November 21, 1984)"
-"""Mountain Challenge"" (November 28, 1984)"
-"""Mountain Waterfall"" (January 2, 1985)"
-"""Twilight Meadow"" (January 9, 1985)"
-"""Mountain Blossoms"" (January 16, 1985)"
-"""Winter Stillness"" (January 23, 1985)"
-"""Quiet Pond"" (January 30, 1985)"
-"""Ocean Sunrise"" (February 6, 1985) Special Guest Audrey Golden"
-"""Bubbling Brook"" (February 13, 1985)"
-"""Arizona Splendor"" (February 20, 1985)"
-"""Anatomy Of A Wave"" (February 27, 1985) Special Guest Joyce Ortner"
-"""The Windmill"" (March 6, 1985)"
-"""Autumn Glory"" (March 13, 1985)"
-"""Indian Girl"" (March 20, 1985)"
-"""Meadow Stream"" (March 27, 1985)"
-"""Blue River"" (May 1, 1985)"
-"""Nature's Edge"" (May 8, 1985)"
-"""Morning Mist"" (May 15, 1985)"
-"""Whispering Stream"" (May 22, 1985)"
-"""Secluded Forest"" (May 29, 1985)"
-"""Snow Trail"" (June 5, 1985)"
-"""Arctic Beauty"" (June 12, 1985)"
-"""Horizons West"" (June 19, 1985)"
-"""High Chateau"" (June 26, 1985)"
-"""Country Life"" (July 2, 1985)"
-"""Western Expanse"" (July 9, 1985)"
-"""Marshlands"" (July 16, 1985)"
-"""Blaze Of Color"" (July 23, 1985)"
-"""Winter Cabin"" (October 2, 1985)"
-"""Secluded Lake"" (October 9, 1985)"
-"""Evergreen At Sunset"" (October 16, 1985)"
-"""Mountain Cabin"" (October 23, 1985)"
-"""Portrait Of Sally"" (October 30, 1985)"
-"""Misty Waterfall"" (November 6, 1985)"
-"""Barn At Sunset"" (November 13, 1985)"
-"""Mountain Splendor"" (November 20, 1985)"
-"""Lake By Mountain"" (November 27, 1985)"
-"""Mountain Glory"" (December 6, 1985)"
-"""Grey Winter"" (December 13, 1985)"
-"""Dock Scene"" (December 20, 1985)"
-"""Dark Waterfall"" (December 27, 1985)"
-"""Misty Rolling Hills"" (January 2, 1986)"
-"""Lakeside Cabin"" (January 9, 1986)"
-"""Warm Winter Day"" (January 16, 1986)"
-"""Waterside Way"" (January 23, 1986)"
-"""Hunter's Haven"" (January 30, 1986)"
-"""Bubbling Mountain Brook"" (February 6, 1986)"
-"""Winter Hideaway"" (February 13, 1986)"
-"""Foot Of The Mountain"" (February 20, 1986)"
-"""Majestic Pine"" (February 27, 1986)"
-"""Cactus At Sunset"" (March 6, 1986)"
-"""Mountain Range"" (March 13, 1986)"
-"""Lonely Retreat"" (March 20, 1986)"
-"""Northern Lights"" (March 27, 1986)"
-"""Winter Evergreens"" (April 30, 1986)"
-"""Surf's Up"" (May 7, 1986)"
-"""Red Sunset"" (May 14, 1986)"
-"""Meadow Road"" (May 21, 1986)"
-"""Winter Oval"" (May 28, 1986)"
-"""Secluded Beach"" (June 4, 1986)"
-"""Forest Hills"" (June 11, 1986)"
-"""Little House By The Road"" (June 18, 1986)"
-"""Mountain Pass"" (June 25, 1986)"
-"""Country Charm"" (July 2, 1986)"
-"""Nature's Paradise"" (July 9, 1986)"
-"""Mountain By The Sea"" (July 16, 1986)"
-"""Mountain Hideaway"" (July 23, 1986)"
-"""Towering Peaks"" (September 3, 1986)"
-"""Cabin At Sunset"" (September 10, 1986)"
-"""Twin Falls"" (September 17, 1986)"
-"""Secluded Bridge"" (September 24, 1986)"
-"""Ocean Breeze"" (October 1, 1986)"
-"""Autumn Woods"" (October 8, 1986)"
-"""Winter Solitude"" (October 15, 1986)"
-"""Golden Sunset"" (October 22, 1986)"
-"""Mountain Oval"" (October 29, 1986)"
-"""Ocean Sunset"" (November 5, 1986)"
-"""Triple View"" (November 12, 1986)"
-"""Winter Frost"" (November 19, 1986)"
-"""Lakeside Cabin"" (November 26, 1986)"
-"""Mountain Stream"" (December 31, 1986)"
-"""Country Cabin"" (January 7, 1987)"
-"""Daisy Delight"" (January 14, 1987)"
-"""Hidden Stream"" (January 21, 1987)"
-"""Towering Glacier"" (January 28, 1987)"
-"""Oval Barn"" (February 4, 1987)"
-"""Lakeside Path"" (February 11, 1987)"
-"""Sunset Oval"" (February 18, 1987)"
-"""Winter Barn"" (February 25, 1987)"
-"""Sunset Over The Waves"" (March 4, 1987)"
-"""Golden Glow"" (March 11, 1987)"
-"""Roadside Barn"" (March 18, 1987)"
-"""Happy Accident"" (March 25, 1987)"
-"""Golden Knoll"" (April 29, 1987)"
-"""Mountain Reflections"" (May 6, 1987)"
-"""Secluded Mountain"" (May 13, 1987)"
-"""Bright Autumn Trees"" (May 20, 1987)"
-"""Black Seascape"" (May 27, 1987)"
-"""Steep Mountains"" (June 3, 1987)"
-"""Quiet Mountain River"" (June 10, 1987)"
-"""Evening Waterfall"" (June 17, 1987)"
-"""Tropical Seascape"" (June 24, 1987)"
-"""Mountain At Sunset"" (July 1, 1987)"
-"""Soft Mountain Glow"" (July 8, 1987)"
-"""Mountain In An Oval"" (July 15, 1987)"
-"""Winter Mountain"" (July 22, 1987)"
-"""Rolling Hills"" (September 2, 1987)"
-"""Frozen Solitude"" (September 9, 1987)"
-"""Meadow Brook"" (September 16, 1987)"
-"""Evening Sunset"" (September 23, 1987)"
-"""Mountain View"" (September 30, 1987)"
-"""Hidden Creek"" (October 7, 1987)"
-"""Peaceful Haven"" (October 14, 1987)"
-"""Mountain Exhibition"" (October 21, 1987)"
-"""Emerald Waters"" (October 28, 1987)"
-"""Mountain Summit"" (November 4, 1987)"
-"""Cabin Hideaway"" (November 11, 1987)"
-"""Oval Essence"" (November 18, 1987)"
-"""Lost Lake"" (November 25, 1987)"
-"""Distant Mountains"" (December 30, 1987)"
-"""Meadow Brook Surprise"" (January 6, 1988)"
-"""Mountain Moonlight Oval"" (January 13, 1988)"
-"""Snowy Solitude"" (January 20, 1988)"
-"""Mountain River"" (January 27, 1988)"
-"""Graceful Mountains"" (February 3, 1988)"
-"""Windy Waves"" (February 10, 1988)"
-"""On A Clear Day"" (February 17, 1988)"
-"""Riverside Escape Oval"" (February 24, 1988)"
-"""Surprising Falls"" (March 2, 1988)"
-"""Shadow Pond"" (March 9, 1988)"
-"""Misty Forest"" (March 16, 1988)"
-"""Natural Wonder"" (March 23, 1988)"
-"""Splendor Of Winter"" (April 27, 1988)"
-"""Colors Of Nature"" (May 4, 1988)"
-"""Grandpa's Barn"" (May 11, 1988)"
-"""Peaceful Reflections"" (May 18, 1988)"
-"""Hidden Winter Moon Oval"" (May 25, 1988)"
-"""Waves Of Wonder"" (June 1, 1988)"
-"""Cabin By The Pond"" (June 8, 1988)"
-"""Fall Stream"" (June 15, 1988)"
-"""Christmas Eve Snow"" (June 22, 1988)"
-"""Forest Dawn Oval"" (June 29, 1988)"
-"""Pathway To Autumn"" (July 6, 1988)"
-"""Deep Forest Lake"" (July 13, 1988)"
-"""Peaks Of Majesty"" (July 20, 1988)"
-"""Two Seasons"" (August 17, 1988)"
-"""Nestled Cabin"" (August 24, 1988)"
-"""Wintertime Discovery"" (August 31, 1988)"
-"""Mountain Mirage"" (September 7, 1988)"
-"""Double Oval Fantasy"" (September 14, 1988)"
-"""Contemplative Lady"" (September 21, 1988) Special Guest John Thamm (Bob Ross's Former Instructor)"
-"""Deep Woods"" (September 28, 1988)"
-"""High Tide"" (October 5, 1988)"
-"""Barn In Snow Oval"" (October 12, 1988)"
-"""That Time Of Year"" (October 19, 1988) Special Guest Steve Ross (Bob's Son)"
-"""Waterfall Wonder"" (October 26, 1988) Footage With Grand Ole Opry Regular Hank Snow And Announcer Grant Turner"
-"""Mighty Mountain Lake"" (November 2, 1988)"
-"""Wooded Stream Oval"" (November 9, 1988)"
-"""Golden Mist Oval"" (January 4, 1989)"
-"""Old Place Home"" (January 11, 1989)"
-"""Soothing Vista"" (January 18, 1989)"
-"""Stormy Seas"" (January 25, 1989)"
-"""Country Time"" (February 1, 1989)"
-"""A Mild Winter's Day"" (February 8, 1989)"
-"""Spectacular Waterfall"" (February 15, 1989)"
-"""View From The Park"" (February 22, 1989)"
-"""Lake View"" (March 1, 1989)"
-"""Old Country Mill"" (March 8, 1989)"
-"""Morning Walk"" (March 15, 1989)"
-"""Nature's Splendor"" (March 22, 1989)"
-"""Mountain Beauty"" (March 29, 1989)"
-"""Half Oval Vignette"" (July 5, 1989)"
-"""Absolutely Autumn"" (July 12, 1989)"
-"""Mountain Seclusion"" (July 19, 1989)"
-"""Crimson Oval"" (July 26, 1989)"
-"""Autumn Exhibition"" (August 2, 1989)"
-"""Majestic Peaks"" (August 9, 1989)"
-"""Golden Morning Mist"" (August 16, 1989)"
-"""Winter Lace"" (August 23, 1989)"
-"""Seascape Fantasy"" (August 30, 1989)"
-"""Double Oval Stream"" (September 6, 1989)"
-"""Enchanted Forest"" (September 13, 1989)"
-"""Southwest Serenity"" (September 20, 1989)"
-"""Rippling Waters"" (September 27, 1989)"
-"""Snowfall Magic"" (January 3, 1990)"
-"""Quiet Mountain Lake"" (January 10, 1990)"
-"""Final Embers Of Sunlight"" (January 17, 1990)"
-"""Snowy Morn"" (January 24, 1990)"
-"""Camper's Haven"" (January 31, 1990)"
-"""Waterfall In The Woods"" (February 7, 1990)"
-"""Covered Bridge Oval"" (February 14, 1990)"
-"""Scenic Seclusion"" (February 21, 1990)"
-"""Ebb Tide"" (February 28, 1990)"
-"""After The Rain"" (March 7, 1990)"
-"""Winter Elegance"" (March 14, 1990)"
-"""Evening's Peace"" (March 21, 1990)"
-"""Valley Of Tranquility"" (March 28, 1990)"
-"""Mystic Mountain"" (April 4, 1990)"
-"""New Day's Dawn"" (April 11, 1990)"
-"""Pastel Winter"" (April 18, 1990)"
-"""Hazy Day"" (April 25, 1990)"
-"""Divine Elegance"" (May 2, 1990)"
-"""Cliffside"" (May 9, 1990)"
-"""Autumn Fantasy"" (May 16, 1990)"
-"""Old Oak Tree"" (May 23, 1990)"
-"""Winter Paradise"" (May 30, 1990)"
-"""Days Gone By"" (June 6, 1990)"
-"""Change Of Seasons"" (June 13, 1990)"
-"""Hidden Delight"" (June 20, 1990)"
-"""Double Take"" (June 27, 1990)"
-"""Valley View"" (September 5, 1990)"
-"""Tranquil Dawn"" (September 12, 1990)"
-"""Royal Majesty"" (September 19, 1990)"
-"""Serenity"" (September 26, 1990)"
-"""Cabin At Trial's End"" (October 3, 1990)"
-"""Mountain Rhapsody"" (October 10, 1990)"
-"""Wilderness Cabin"" (October 17, 1990)"
-"""By The Sea"" (October 24, 1990)"
-"""Indian Summer"" (October 31, 1990)"
-"""Blue Winter"" (November 7, 1990)"
-"""Desert Glow"" (November 14, 1990)"
-"""Lone Mountain"" (November 21, 1990)"
-"""Florida's Glory"" (November 28, 1990)"
-"""Autumn Images"" (January 1, 1991)"
-"""Hint Of Springtime"" (January 8, 1991)"
-"""Around The Bend"" (January 15, 1991)"
-"""Countryside Oval"" (January 22, 1991)"
-"""Russet Winter"" (January 29, 1991)"
-"""Purple Haze"" (February 5, 1991)"
-"""Dimensions"" (February 12, 1991)"
-"""Deep Wilderness Home"" (February 19, 1991)"
-"""Haven In The Valley"" (February 26, 1991)"
-"""Wintertime Blues"" (March 5, 1991)"
-"""Pastel Seascape"" (March 12, 1991)"
-"""Country Creek"" (March 19, 1991)"
-"""Silent Forest"" (March 26, 1991)"
-"""Frosty Winter Morn"" (September 3, 1991)"
-"""Forest Edge"" (September 10, 1991)"
-"""Mountain Ridge Lake"" (September 17, 1991)"
-"""Reflections Of Gold"" (September 24, 1991)"
-"""Quiet Cove"" (October 1, 1991)"
-"""River's Peace"" (October 8, 1991)"
-"""At Dawn's Light"" (October 15, 1991)"
-"""Valley Waterfall"" (October 22, 1991)"
-"""Toward Day's End"" (October 29, 1991)"
-"""Falls In The Glen"" (November 5, 1991)"
-"""Frozen Beauty In Vignette"" (November 12, 1991)"
-"""Crimson Tide"" (November 19, 1991)"
-"""Winter Bliss"" (November 26, 1991)"
-"""Grey Mountain"" (January 7, 1992)"
-"""Wayside Pond"" (January 14, 1992)"
-"""Teton Winter"" (January 21, 1992)"
-"""Little Home In The Meadow"" (January 28, 1992)"
-"""Pretty Autumn Day"" (February 4, 1992)"
-"""Mirrored Images"" (February 11, 1992)"
-"""Back-country Path"" (February 18, 1992)"
-"""Graceful Waterfall"" (February 25, 1992)"
-"""Icy Lake"" (March 3, 1992)"
-"""Rowboat On The Beach"" (March 10, 1992)"
-"""Portrait Of Winter"" (March 17, 1992)"
-"""Footbridge"" (March 24, 1992)"
-"""Snowbound Cabin"" (March 31, 1992)"
-"""Hide-a-way Cove"" (August 25, 1992)"
-"""Enchanted Falls Oval"" (September 1, 1992)"
-"""Not Quite Spring"" (September 8, 1992)"
-"""Splashes Of Autumn"" (September 15, 1992)"
-"""Summer In The Mountains"" (September 22, 1992)"
-"""Oriental Falls"" (September 29, 1992)"
-"""Autumn Palette"" (October 6, 1992)"
-"""Cypress Swamp"" (October 13, 1992)"
-"""Downstream View"" (October 20, 1992)"
-"""Just Before The Storm"" (October 27, 1992)"
-"""Fisherman's Paradise"" (November 3, 1992)"
-"""Desert Hues"" (November 10, 1992)"
-"""The Property Line"" (November 17, 1992)"
-"""In The Stillness Of Morning"" (December 1, 1992)"
-"""Delightful Meadow Home"" (December 8, 1992)"
-"""First Snow"" (December 15, 1992)"
-"""Lake In The Valley"" (December 22, 1992)"
-"""A Trace Of Spring"" (December 29, 1992)"
-"""An Arctic Winter Day"" (January 5, 1993)"
-"""Snow Birch"" (January 12, 1993)"
-"""Early Autumn"" (January 19, 1993)"
-"""Tranquil Wooded Stream"" (January 26, 1993)"
-"""Purple Mountain Range"" (February 2, 1993)"
-"""Storm's A Comin'"" (February 9, 1993)"
-"""Sunset Aglow"" (February 16, 1993)"
-"""Evening At The Falls"" (February 23, 1993)"
-"""Twilight Beauty"" (March 2, 1993)"
-"""Angler's Haven"" (March 9, 1993)"
-"""Rustic Winter Woods"" (March 16, 1993)"
-"""Wilderness Falls"" (March 23, 1993)"
-"""Winter At The Farm"" (March 30, 1993)"
-"""Daisies At Dawn"" (April 6, 1993)"
-"""A Spectacular View"" (April 13, 1993)"
-"""Daybreak"" (April 20, 1993)"
-"""Island Paradise"" (April 27, 1993)"
-"""Sunlight In The Shadows"" (May 4, 1993)"
-"""Splendor Of A Snowy Winter"" (May 11, 1993)"
-"""Forest River"" (May 18, 1993)"
-"""Golden Glow Of Morning"" (May 20, 1993)"
-"""Fisherman's Trail"" (May 25, 1993) - After Painting The Canvas To Resemble Wood, Ross Paints A Landscape With The Titular Trail, Plus Mountains, Trees, Water, And Shrubbery, But No Sky."
-"""A Warm Winter"" (June 1, 1993)"
-"""Under Pastel Skies"" (June 8, 1993)"
-"""Golden Rays Of Sunlight"" (June 15, 1993)"
-"""The Magic Of Fall"" (June 22, 1993)"
-"""Glacier Lake"" (June 29, 1993)"
-"""The Old Weathered Barn"" (July 6, 1993)"
-"""Deep Forest Falls"" (July 13, 1993)"
-"""Winter's Grace"" (July 20, 1993)"
-"""Splendor Of Autumn"" (July 27, 1993)"
-"""Tranquil Seas"" (August 3, 1993)"
-"""Mountain Serenity"" (August 10, 1993)"
-"""Home Before Nightfall"" (August 17, 1993)"
-"""Island In The Wilderness"" (August 24, 1993)"
-"""Autumn Oval"" (August 31, 1993)"
-"""Seasonal Progression"" (September 7, 1993)"
-"""Light At The Summit"" (September 14, 1993)"
-"""Countryside Barn"" (September 21, 1993)"
-"""Mountain Lake Falls"" (September 28, 1993) Special Guest Steve Ross (Bob's Son)"
-"""Cypress Creek"" (October 5, 1993)"
-"""Trapper's Cabin"" (October 12, 1993)"
-"""Storm On The Horizon"" (October 19, 1993)"
-"""Pot O' Posies"" (October 26, 1993)"
-"""A Perfect Winter Day"" (November 2, 1993)"
-"""Aurora's Dance"" (November 9, 1993)"
-"""Woodsman's Retreat"" (November 16, 1993)"
-"""Babbling Brook"" (November 23, 1993)"
-"""Woodgrain View"" (November 30, 1993)"
-"""Winter's Peace"" (December 7, 1993)"
-"""Wilderness Trail"" (December 14, 1993)"
-"""A Copper Winter"" (December 21, 1993)"
-"""Misty Foothills"" (December 28, 1993)"
-"""Through The Window"" (January 4, 1994)"
-"""Home In The Valley"" (January 11, 1994)"
-"""Mountains Of Grace"" (January 18, 1994) Guest Artist: Steve Ross"
-"""Seaside Harmony"" (January 25, 1994)"
-"""A Cold Spring Day"" (February 1, 1994)"
-"""Evening's Glow"" (February 8, 1994)"
-"""Blue Ridge Falls"" (February 15, 1994)"
-"""Reflections Of Calm"" (February 22, 1994)"
-"""Before The Snowfall"" (March 1, 1994)"
-"""Winding Stream"" (March 8, 1994)"
-"""Tranquility Cove"" (March 15, 1994)"
-"""Cabin In The Hollow"" (March 22, 1994)"
-"""View From Clear Creek"" (March 29, 1994)"
-"""Bridge To Autumn"" (April 5, 1994)"
-"""Trail's End"" (April 12, 1994)"
-"""Evergreen Valley"" (April 19, 1994)"
-"""Balmy Beach"" (April 26, 1994)"
-"""Lake At The Ridge"" (May 3, 1994) (Featuring Steve Ross)"
-"""In The Midst Of Winter"" (May 10, 1994)"
-"""Wilderness Day"" (May 17, 1994)"
+TITLE,date,note
+A Walk in the Woods,1983-01-11,
+Mount McKinley,1983-01-11,
+Ebony Sunset,1983-01-18,
+Winter Mist,1983-01-25,
+Quiet Stream,1983-02-01,
+Winter Moon,1983-02-08,
+Autumn Mountains,1983-02-15,
+Peaceful Valley,1983-02-22,
+Seascape,1983-03-01,
+Mountain Lake,1983-03-08,
+Winter Glow,1983-03-15,
+Snowfall,1983-03-22,
+Final Reflections,1983-03-29,
+Meadow Lake,1983-08-31,
+Winter Sun,1983-09-07,
+Ebony Sea,1983-09-14,
+Shades of Gray,1983-09-21,
+Autumn Splendor,1983-09-28,
+Black River,1983-10-05,
+Brown Mountain,1983-10-12,
+Reflections,1983-10-19,
+Black & White Seascape,1983-10-26,
+Lazy River,1983-11-02,
+Black Waterfall,1983-11-09,
+Mountain Waterfall,1983-11-16,
+Final Grace,1983-11-23,
+Mountain Retreat,1984-01-04,
+Blue Moon,1984-01-11,
+Bubbling Stream,1984-01-18,
+Winter Night,1984-01-25,
+Distant Hills,1984-02-01,
+Covered Bridge,1984-02-08,
+Quiet Inlet,1984-02-15,
+Night Light,1984-02-22,
+The Old Mill,1984-03-01,
+Campfire,1984-03-08,
+Rustic Barn,1984-03-15,
+Hidden Lake,1984-03-22,
+Peaceful Waters,1984-03-29,
+Purple Splendor,1984-09-05,
+Tranquil Valley,1984-09-12,
+Majestic Mountains,1984-09-19,
+Winter Sawscape,1984-09-26,
+Evening Seascape,1984-10-03,
+Warm Summer Day,1984-10-10,
+Cabin in the Woods,1984-10-17,
+Wetlands,1984-10-24,
+Cool Waters,1984-10-31,
+Quiet Woods,1984-11-07,
+Northwest Majesty,1984-11-14,
+Autumn Days,1984-11-21,
+Mountain Challenge,1984-11-28,
+Mountain Waterfall,1985-01-02,
+Twilight Meadow,1985-01-09,
+Mountain Blossoms,1985-01-16,
+Winter Stillness,1985-01-23,
+Quiet Pond,1985-01-30,
+Ocean Sunrise,1985-02-06,Special guest Audrey Golden
+Bubbling Brook,1985-02-13,
+Arizona Splendor,1985-02-20,
+Anatomy of a Wave,1985-02-27,Special guest Joyce Ortner
+The Windmill,1985-03-06,
+Autumn Glory,1985-03-13,
+Indian Girl,1985-03-20,
+Meadow Stream,1985-03-27,
+Blue River,1985-05-01,
+Nature's Edge,1985-05-08,
+Morning Mist,1985-05-15,
+Whispering Stream,1985-05-22,
+Secluded Forest,1985-05-29,
+Snow Trail,1985-06-05,
+Arctic Beauty,1985-06-12,
+Horizons West,1985-06-19,
+High Chateau,1985-06-26,
+Country Life,1985-07-02,
+Western Expanse,1985-07-09,
+Marshlands,1985-07-16,
+Blaze of Color,1985-07-23,
+Winter Cabin,1985-10-02,
+Secluded Lake,1985-10-09,
+Evergreen at Sunset,1985-10-16,
+Mountain Cabin,1985-10-23,
+Portrait of Sally,1985-10-30,
+Misty Waterfall,1985-11-06,
+Barn at Sunset,1985-11-13,
+Mountain Splendor,1985-11-20,
+Lake by Mountain,1985-11-27,
+Mountain Glory,1985-12-06,
+Grey Winter,1985-12-13,
+Dock Scene,1985-12-20,
+Dark Waterfall,1985-12-27,
+Misty Rolling Hills,1986-01-02,
+Lakeside Cabin,1986-01-09,
+Warm Winter Day,1986-01-16,
+Waterside Way,1986-01-23,
+Hunter's Haven,1986-01-30,
+Bubbling Mountain Brook,1986-02-06,
+Winter Hideaway,1986-02-13,
+Foot of the Mountain,1986-02-20,
+Majestic Pine,1986-02-27,
+Cactus at Sunset,1986-03-06,
+Mountain Range,1986-03-13,
+Lonely Retreat,1986-03-20,
+Northern Lights,1986-03-27,
+Winter Evergreens,1986-04-30,
+Surf's Up,1986-05-07,
+Red Sunset,1986-05-14,
+Meadow Road,1986-05-21,
+Winter Oval,1986-05-28,
+Secluded Beach,1986-06-04,
+Forest Hills,1986-06-11,
+Little House by the Road,1986-06-18,
+Mountain Pass,1986-06-25,
+Country Charm,1986-07-02,
+Nature's Paradise,1986-07-09,
+Mountain by the Sea,1986-07-16,
+Mountain Hideaway,1986-07-23,
+Towering Peaks,1986-09-03,
+Cabin at Sunset,1986-09-10,
+Twin Falls,1986-09-17,
+Secluded Bridge,1986-09-24,
+Ocean Breeze,1986-10-01,
+Autumn Woods,1986-10-08,
+Winter Solitude,1986-10-15,
+Golden Sunset,1986-10-22,
+Mountain Oval,1986-10-29,
+Ocean Sunset,1986-11-05,
+Triple View,1986-11-12,
+Winter Frost,1986-11-19,
+Lakeside Cabin,1986-11-26,
+Mountain Stream,1986-12-31,
+Country Cabin,1987-01-07,
+Daisy Delight,1987-01-14,
+Hidden Stream,1987-01-21,
+Towering Glacier,1987-01-28,
+Oval Barn,1987-02-04,
+Lakeside Path,1987-02-11,
+Sunset Oval,1987-02-18,
+Winter Barn,1987-02-25,
+Sunset Over the Waves,1987-03-04,
+Golden Glow,1987-03-11,
+Roadside Barn,1987-03-18,
+Happy Accident,1987-03-25,
+Golden Knoll,1987-04-29,
+Mountain Reflections,1987-05-06,
+Secluded Mountain,1987-05-13,
+Bright Autumn Trees,1987-05-20,
+Black Seascape,1987-05-27,
+Steep Mountains,1987-06-03,
+Quiet Mountain River,1987-06-10,
+Evening Waterfall,1987-06-17,
+Tropical Seascape,1987-06-24,
+Mountain at Sunset,1987-07-01,
+Soft Mountain Glow,1987-07-08,
+Mountain in an Oval,1987-07-15,
+Winter Mountain,1987-07-22,
+Rolling Hills,1987-09-02,
+Frozen Solitude,1987-09-09,
+Meadow Brook,1987-09-16,
+Evening Sunset,1987-09-23,
+Mountain View,1987-09-30,
+Hidden Creek,1987-10-07,
+Peaceful Haven,1987-10-14,
+Mountain Exhibition,1987-10-21,
+Emerald Waters,1987-10-28,
+Mountain Summit,1987-11-04,
+Cabin Hideaway,1987-11-11,
+Oval Essence,1987-11-18,
+Lost Lake,1987-11-25,
+Distant Mountains,1987-12-30,
+Meadow Brook Surprise,1988-01-06,
+Mountain Moonlight Oval,1988-01-13,
+Snowy Solitude,1988-01-20,
+Mountain River,1988-01-27,
+Graceful Mountains,1988-02-03,
+Windy Waves,1988-02-10,
+On a Clear Day,1988-02-17,
+Riverside Escape Oval,1988-02-24,
+Surprising Falls,1988-03-02,
+Shadow Pond,1988-03-09,
+Misty Forest,1988-03-16,
+Natural Wonder,1988-03-23,
+Splendor of Winter,1988-04-27,
+Colors of Nature,1988-05-04,
+Grandpa's Barn,1988-05-11,
+Peaceful Reflections,1988-05-18,
+Hidden Winter Moon Oval,1988-05-25,
+Waves of Wonder,1988-06-01,
+Cabin by the Pond,1988-06-08,
+Fall Stream,1988-06-15,
+Christmas Eve Snow,1988-06-22,
+Forest Dawn Oval,1988-06-29,
+Pathway to Autumn,1988-07-06,
+Deep Forest Lake,1988-07-13,
+Peaks of Majesty,1988-07-20,
+Two Seasons,1988-08-17,
+Nestled Cabin,1988-08-24,
+Wintertime Discovery,1988-08-31,
+Mountain Mirage,1988-09-07,
+Double Oval Fantasy,1988-09-14,
+Contemplative Lady,1988-09-21,", Special guest John Thamm (Bob Ross's former instructor)"
+Deep Woods,1988-09-28,
+High Tide,1988-10-05,
+Barn in Snow Oval,1988-10-12,
+That Time of Year,1988-10-19,", Special guest Steve Ross (Bob's son)"
+Waterfall Wonder,1988-10-26,
+Mighty Mountain Lake,1988-11-02,
+Wooded Stream Oval,1988-11-09,
+Golden Mist Oval,1989-01-04,
+Old Place Home,1989-01-11,
+Soothing Vista,1989-01-18,
+Stormy Seas,1989-01-25,
+Country Time,1989-02-01,
+A Mild Winter's Day,1989-02-08,
+Spectacular Waterfall,1989-02-15,
+View From the Park,1989-02-22,
+Lake View,1989-03-01,
+Old Country Mill,1989-03-08,
+Morning Walk,1989-03-15,
+Nature's Splendor,1989-03-22,
+Mountain Beauty,1989-03-29,
+Half Oval Vignette,1989-07-05,
+Absolutely Autumn,1989-07-12,
+Mountain Seclusion,1989-07-19,
+Crimson Oval,1989-07-26,
+Autumn Exhibition,1989-08-02,
+Majestic Peaks,1989-08-09,
+Golden Morning Mist,1989-08-16,
+Winter Lace,1989-08-23,
+Seascape Fantasy,1989-08-30,
+Double Oval Stream,1989-09-06,
+Enchanted Forest,1989-09-13,
+Southwest Serenity,1989-09-20,
+Rippling Waters,1989-09-27,
+Snowfall Magic,1990-01-03,
+Quiet Mountain Lake,1990-01-10,
+Final Embers of Sunlight,1990-01-17,
+Snowy Morn,1990-01-24,
+Camper's Haven,1990-01-31,
+Waterfall in the Woods,1990-02-07,
+Covered Bridge Oval,1990-02-14,
+Scenic Seclusion,1990-02-21,
+Ebb Tide,1990-02-28,
+After the Rain,1990-03-07,
+Winter Elegance,1990-03-14,
+Evening's Peace,1990-03-21,
+Valley of Tranquility,1990-03-28,
+Mystic Mountain,1990-04-04,
+New Day's Dawn,1990-04-11,
+Pastel Winter,1990-04-18,
+Hazy Day,1990-04-25,
+Divine Elegance,1990-05-02,
+Cliffside,1990-05-09,
+Autumn Fantasy,1990-05-16,
+Old Oak Tree,1990-05-23,
+Winter Paradise,1990-05-30,
+Days Gone By,1990-06-06,
+Change of Seasons,1990-06-13,
+Hidden Delight,1990-06-20,
+Double Take,1990-06-27,
+Valley View,1990-09-05,
+Tranquil Dawn,1990-09-12,
+Royal Majesty,1990-09-19,
+Serenity,1990-09-26,
+Cabin at Trial's End,1990-10-03,
+Mountain Rhapsody,1990-10-10,
+Wilderness Cabin,1990-10-17,
+By the Sea,1990-10-24,
+Indian Summer,1990-10-31,
+Blue Winter,1990-11-07,
+Desert Glow,1990-11-14,
+Lone Mountain,1990-11-21,
+Florida's Glory,1990-11-28,
+Autumn Images,1991-01-01,
+Hint of Springtime,1991-01-08,
+Around the Bend,1991-01-15,
+Countryside Oval,1991-01-22,
+Russet Winter,1991-01-29,
+Purple Haze,1991-02-05,
+Dimensions,1991-02-12,
+Deep Wilderness Home,1991-02-19,
+Haven in the Valley,1991-02-26,
+Wintertime Blues,1991-03-05,
+Pastel Seascape,1991-03-12,
+Country Creek,1991-03-19,
+Silent Forest,1991-03-26,
+Frosty Winter Morn,1991-09-03,
+Forest Edge,1991-09-10,
+Mountain Ridge Lake,1991-09-17,
+Reflections of Gold,1991-09-24,
+Quiet Cove,1991-10-01,
+River's Peace,1991-10-08,
+At Dawn's Light,1991-10-15,
+Valley Waterfall,1991-10-22,
+Toward Day's End,1991-10-29,
+Falls in the Glen,1991-11-05,
+Frozen Beauty in Vignette,1991-11-12,
+Crimson Tide,1991-11-19,
+Winter Bliss,1991-11-26,
+Grey Mountain,1992-01-07,
+Wayside Pond,1992-01-14,
+Teton Winter,1992-01-21,
+Little Home in the Meadow,1992-01-28,
+Pretty Autumn Day,1992-02-04,
+Mirrored Images,1992-02-11,
+Back-Country Path,1992-02-18,
+Graceful Waterfall,1992-02-25,
+Icy Lake,1992-03-03,
+Rowboat on the Beach,1992-03-10,
+Portrait of Winter,1992-03-17,
+Footbridge,1992-03-24,
+Snowbound Cabin,1992-03-31,
+Hide-a-Way Cove,1992-08-25,
+Enchanted Falls Oval,1992-09-01,
+Not Quite Spring,1992-09-08,
+Splashes of Autumn,1992-09-15,
+Summer in the Mountains,1992-09-22,
+Oriental Falls,1992-09-29,
+Autumn Palette,1992-10-06,
+Cypress Swamp,1992-10-13,
+Downstream View,1992-10-20,
+Just Before the Storm,1992-10-27,
+Fisherman's Paradise,1992-11-03,
+Desert Hues,1992-11-10,
+The Property Line,1992-11-17,
+In the Stillness of Morning,1992-12-01,
+Delightful Meadow Home,1992-12-08,
+First Snow,1992-12-15,
+Lake in the Valley,1992-12-22,
+A Trace of Spring,1992-12-29,
+An Arctic Winter Day,1993-01-05,
+Snow Birch,1993-01-12,
+Early Autumn,1993-01-19,
+Tranquil Wooded Stream,1993-01-26,
+Purple Mountain Range,1993-02-02,
+Storm's a Comin,1993-02-09,
+Sunset Aglow,1993-02-16,
+Evening at the Falls,1993-02-23,
+Twilight Beauty,1993-03-02,
+Angler's Haven,1993-03-09,
+Rustic Winter Woods,1993-03-16,
+Wilderness Falls,1993-03-23,
+Winter at the Farm,1993-03-30,
+Daisies at Dawn,1993-04-06,
+A Spectacular View,1993-04-13,
+Daybreak,1993-04-20,
+Island Paradise,1993-04-27,
+Sunlight in the Shadows,1993-05-04,
+Splendor of a Snowy Winter,1993-05-11,
+Forest River,1993-05-18,
+Golden Glow of Morning,1993-05-20,
+Fisherman's Trail,1993-05-25,
+A Warm Winter,1993-06-01,
+Under Pastel Skies,1993-06-08,
+Golden Rays of Sunlight,1993-06-15,
+The Magic of Fall,1993-06-22,
+Glacier Lake,1993-06-29,
+The Old Weathered Barn,1993-07-06,
+Deep Forest Falls,1993-07-13,
+Winter's Grace,1993-07-20,
+Splendor of Autumn,1993-07-27,
+Tranquil Seas,1993-08-03,
+Mountain Serenity,1993-08-10,
+Home Before Nightfall,1993-08-17,
+Island in the Wilderness,1993-08-24,
+Autumn Oval,1993-08-31,
+Seasonal Progression,1993-09-07,
+Light at the Summit,1993-09-14,
+Countryside Barn,1993-09-21,
+Mountain Lake Falls,1993-09-28,", Special guest Steve Ross (Bob's son)"
+Cypress Creek,1993-10-05,
+Trapper's Cabin,1993-10-12,
+Storm on the Horizon,1993-10-19,
+Pot O' Posies,1993-10-26,
+A Perfect Winter Day,1993-11-02,
+Aurora's Dance,1993-11-09,
+Woodsman's Retreat,1993-11-16,
+Babbling Brook,1993-11-23,
+Woodgrain View,1993-11-30,
+Winter's Peace,1993-12-07,
+Wilderness Trail,1993-12-14,
+A Copper Winter,1993-12-21,
+Misty Foothills,1993-12-28,
+Through the Window,1994-01-04,
+Home in the Valley,1994-01-11,
+Mountains of Grace,1994-01-18,", Guest Artist: Steve Ross"
+Seaside Harmony,1994-01-25,
+A Cold Spring Day,1994-02-01,
+Evening's Glow,1994-02-08,
+Blue Ridge Falls,1994-02-15,
+Reflections of Calm,1994-02-22,
+Before the Snowfall,1994-03-01,
+Winding Stream,1994-03-08,
+Tranquility Cove,1994-03-15,
+Cabin in the Hollow,1994-03-22,
+View From Clear Creek,1994-03-29,
+Bridge to Autumn,1994-04-05,
+Trail's End,1994-04-12,
+Evergreen Valley,1994-04-19,
+Balmy Beach,1994-04-26,
+Lake at the Ridge,1994-05-03,
+In the Midst of Winter,1994-05-10,
+Wilderness Day,1994-05-17,
